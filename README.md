@@ -11,7 +11,7 @@ This app is built using the MERN stack, which includes:
 
 ## Travel Guide Chatbot:
 Welcome to the Travel Guide Chatbot project! This innovative chatbot is designed to assist users in navigating their travel experiences, powered by cutting-edge AI technologies.
-
+[![play video link 2]](https://drive.google.com/file/d/1-QY81iDWH-CUV_-F1n8xg7HOH8q7KawS/view?usp=sharing)
 
 ## Overview:
 This project was developed as part of my university's Artificial Intelligence module, combining the MERN stack with Python backend scripts seamlessly integrated as child processes in a Node.js environment.
