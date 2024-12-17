@@ -2,7 +2,7 @@
 
 
 
-#Technologies Used:
+# Technologies Used:
 This app is built using the MERN stack, which includes:
 React Native: a front-end JavaScript library for building user interfaces
 Node.js: a JavaScript runtime environment for executing server-side code
