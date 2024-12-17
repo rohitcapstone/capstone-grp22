@@ -10,7 +10,7 @@ This app is built using the MERN stack, which includes:
 - Express.js: a Node.js framework for building web applications
 
 ## Travel Guide Chatbot:
-Welcome to the Travel Guide Chatbot project! This innovative chatbot is designed to assist users in navigating their travel experiences, powered by cutting-edge AI technologies.
+Welcome to the Travel Guide Chatbot project! This innovative chatbot is designed to assist users in navigating their travel experiences, powered by cutting-edge AI technologies.<br/>
 [![play video link 2]](https://drive.google.com/file/d/1-QY81iDWH-CUV_-F1n8xg7HOH8q7KawS/view?usp=sharing)
 
 ## Overview:
