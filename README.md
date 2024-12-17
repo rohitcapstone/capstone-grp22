@@ -1,6 +1,6 @@
 # Tour-Guide Chatbot
 
-[![Watch the video]](https://raw.githubusercontent.com/rohitcapstone/capstone-grp24/main/1.mp4)
+[![Watch the video]](https://raw.github.com/rohitcapstone/capstone-grp24/main/1.mp4)
 
 ## Technologies Used:
 This app is built using the MERN stack, which includes:
