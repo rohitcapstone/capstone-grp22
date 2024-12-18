@@ -14,7 +14,7 @@ Welcome to the Travel Guide Chatbot project! This innovative chatbot is designed
 [![play video link 2]](https://drive.google.com/file/d/1-QY81iDWH-CUV_-F1n8xg7HOH8q7KawS/view?usp=sharing)
 
 ## Overview:
-This project was developed as part of my university's Artificial Intelligence module, combining the MERN stack with Python backend scripts seamlessly integrated as child processes in a Node.js environment.
+This project was developed as part of an Artificial Intelligence module, combining the MERN stack with Python backend scripts seamlessly integrated as child processes in a Node.js environment.
 ### Features
 - Conditional AI: The chatbot incorporates conditional AI for dynamic and context-aware interactions.
 - OpenAI Integration: Leverages OpenAI's API and OpenAIEmbeddings for context-rich embeddings.
